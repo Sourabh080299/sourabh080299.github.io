@@ -2,7 +2,7 @@
     padding: 0%;
 }
 div{
-    background-color: rgb(110, 103, 103);
+    background-color: rgb(97, 91, 91);
     width: 280px;
     height: 350px;
     padding: 10px;
@@ -14,7 +14,7 @@ input{
     border-radius: 10px;
     width: 280px;
     height: 80px;
-    background-color: rgb(45, 48, 48);
+    background-color: rgb(55, 58, 58);
     color: white;
     border: 4px solid rgb(0, 0, 0);
 }
@@ -24,8 +24,8 @@ ul{
 li{
     color: white;
     text-align: center;
-    background-color: rgb(0, 0, 0);
-    border: solid 2px rgb(155, 140, 145);
+    background-color: #000000;
+    border: solid 2px rgb(143, 132, 135);
     border-radius: 50%;
     width: 40px;
     padding: 10px;
