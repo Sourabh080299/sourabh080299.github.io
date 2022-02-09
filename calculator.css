@@ -2,7 +2,7 @@
     padding: 0%;
 }
 div{
-    background-color: rgb(104, 91, 91);
+    background-color: rgb(97, 87, 87);
     width: 280px;
     height: 350px;
     padding: 10px;
@@ -25,7 +25,7 @@ li{
     color: white;
     text-align: center;
     background-color: #000000;
-    border: solid 2px rgb(143, 132, 135);
+    border: solid 2px rgb(143, 135, 137);
     border-radius: 50%;
     width: 40px;
     padding: 10px;
